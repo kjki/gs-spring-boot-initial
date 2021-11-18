@@ -8,8 +8,8 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		// test01
-		return "Pipeline test!!!!!";
+		// test02
+		return "Pipeline test...";
 	}
 
 }
