@@ -8,6 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
+		// test01
 		return "Pipeline test........";
 	}
 
