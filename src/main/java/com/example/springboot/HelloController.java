@@ -9,7 +9,7 @@ public class HelloController {
 	@GetMapping("/")
 	public String index() {
 		// test
-		return "Pipeline test_06";
+		return "Pipeline test_07";
 	}
 
 }
